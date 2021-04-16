@@ -1,5 +1,3 @@
-//Calcula el promedio de una lista de N datos
-
 Algoritmo Promedio
 	Mientras respuesta=0 Hacer
 		Repetir
